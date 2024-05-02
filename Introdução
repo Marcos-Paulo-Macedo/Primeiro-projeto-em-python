@@ -1,0 +1,5 @@
+Olá.
+Obrigado por visitar meu Github.
+Neste repositório vou colocar informações sobre um projeto que vou inciar, um sistema de radar de velocidade usando uma camera e variação de imagem e Python, o conceito principal se da medindo o tempo que cada
+o objeto a cruzar a primeira linha de variação de imagem inicia a contagem ate que se identifique a variação no segundo local encerrando a contagem. 
+Assim medindo o tempo que ele leva para percorrer o espaço entre estes dois ponto, usando a formula  " v = Δs/Δt " onde Δs referenciasse ao deslocamenteo e Δt ao tempo para calulcar V = Velocidade.
